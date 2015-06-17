@@ -1,3 +1,13 @@
+THIS REPO HAS MOVED!!!!
+=======================
+
+This repository has moved to 
+	
+	https://github.com/ParticulateFlow/LBDEMcoupling-public.git
+
+Please update your origin url accordingly! This repository will remain 
+as-is, but won't receive any updates in the future.
+
 lbdem-dev
 =========
 
